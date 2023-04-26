@@ -65,17 +65,17 @@
       key-positions = <32 33>;
     };
 
-    new_combo {
+    save {
       bindings = <&kp C_AC_SAVE>;
       key-positions = <15 14>;
     };
 
-    new_combo {
+    copy {
       bindings = <&kp C_AC_COPY>;
       key-positions = <16 15>;
     };
 
-    new_combo {
+    paste {
       bindings = <&kp C_AC_PASTE>;
       key-positions = <13 14>;
     };
